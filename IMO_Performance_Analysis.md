@@ -1179,7 +1179,7 @@ plot_1 <- ggplot() +
 plot_1
 ```
 
-<img src="IMO_Performance_Analysis_files/figure-gfm/unnamed-chunk-25-1.png" width="100%" style="display: block; margin: auto;" />
+![Plot](plot1.png)
 
 ## Discussion
 
@@ -1835,7 +1835,7 @@ plot_2 <- ggplot() +
 plot_2
 ```
 
-<img src="IMO_Performance_Analysis_files/figure-gfm/unnamed-chunk-28-1.png" width="100%" style="display: block; margin: auto;" />
+![Plot](plot2.png)
 
 ## Discussion
 
@@ -2207,7 +2207,7 @@ plot_3 <- g_left + g_right +
 plot_3
 ```
 
-<img src="IMO_Performance_Analysis_files/figure-gfm/unnamed-chunk-36-1.png" width="100%" style="display: block; margin: auto;" />
+![Plot](plot3.png)
 
 ## Discussion
 
